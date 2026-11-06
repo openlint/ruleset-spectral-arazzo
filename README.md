@@ -7,7 +7,7 @@ consumers.
 Install the package and extend it directly:
 
 ```sh
-npm install --save-dev @openlint/openlint-ruleset-spectral-arazzo
+npm install --save-dev @openlint/ruleset-spectral-arazzo
 ```
 
 ```yaml

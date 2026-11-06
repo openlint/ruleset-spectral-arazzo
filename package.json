@@ -1,5 +1,5 @@
 {
-  "name": "@openlint/openlint-ruleset-spectral-arazzo",
+  "name": "@openlint/ruleset-spectral-arazzo",
   "version": "0.1.0",
   "description": "OpenLint ruleset for Arazzo documents",
   "homepage": "https://github.com/openlint/ruleset-spectral-arazzo",
